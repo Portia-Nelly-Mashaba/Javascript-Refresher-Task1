@@ -88,7 +88,7 @@ for (let i = 0; i < numbers1.length; i++) {
     console.log(numbers1[i]);
 }
 
-
+// //Exercise4
 // // 2. Re-writing the code using switch statements
 // let num = 18; // You can change this number to test other values
 
